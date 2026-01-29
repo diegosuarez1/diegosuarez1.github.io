@@ -9,10 +9,10 @@
 
 main:
   - title: "About"
-    url: /About/
+    url: /about/
 
   - title: "Projects"
-    url: /Portfolio/    
+    url: /portfolio/    
     
   - title: "CV"
     url: /cv/
