@@ -1,6 +1,6 @@
 ---
 title: "CitadexAI"
-excerpt: "Citadex is an LLM Gateway used for budget control and data analytics <br/><img src='/images/Citadex_Main_logo_design.png'>"
+excerpt: "Citadex is an LLM Gateway used for budget control and data analytics <br/><img src='/images/CItadex_Main_logo_design.png'>"
 collection: portfolio
 ---
 
