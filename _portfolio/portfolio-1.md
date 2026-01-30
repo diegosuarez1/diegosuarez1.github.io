@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CitadexAI"
+excerpt: "Citadex is an LLM Gateway used for budget control and data analytics <br/><img src='/images/Citadex_Main_logo.png'>"
 collection: portfolio
 ---
 
